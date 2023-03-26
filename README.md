@@ -39,3 +39,11 @@ emoji 从日本开创，美国发展，已经能被大多数现代计算机系�
 ![image2](./image_2022-09-30_19-34-49.png)
 
 打开后在最下面复制粘贴好，保存
+
+## 其他个人配置
+
+[单字.txt](https://github.com/U1805/Sogou-emoji-thesaurus/blob/main/其他个人使用配置/搜狗拼音_win_小鹤音形_单字.txt) 和 [符号.txt](https://github.com/U1805/Sogou-emoji-thesaurus/blob/main/其他个人使用配置/搜狗拼音_win_小鹤音形_单字.txt) 是对 [小鹤音形·搜狗拼音win版自定义短语.txt](http://flypy.ysepan.com/) 的拆分，没有任何额外修改，仅个人存档使用
+
+[颜文字小表情.txt](https://github.com/U1805/Sogou-emoji-thesaurus/blob/main/其他个人使用配置/颜文字小表情.txt) 是我收集的一些颜表情，像是 •ᴗ• ´◡` ˙˘˙ ᐛ ⍢
+
+[直角引号.html](https://github.com/U1805/Sogou-emoji-thesaurus/blob/main/其他个人使用配置/如何输入直角引号「」.html) 是通过修改配置文件，将搜狗拼音默认的中文方括号【】修改为直角括号「」的方法，[原链接点这里](https://www.zhihu.com/question/19755746/answer/2234244508)
